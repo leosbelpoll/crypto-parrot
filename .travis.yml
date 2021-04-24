@@ -22,4 +22,4 @@ deploy:
   target-branch: gh-pages
   commit_message: "Deployment"
   on:
-    branch: master
+    branch: main
